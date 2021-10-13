@@ -1,5 +1,7 @@
 {
   "name": "geoLocalizacion",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
